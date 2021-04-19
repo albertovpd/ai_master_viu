@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#
+input
+pending_courses
+
+
 # C extensions
 *.so
 

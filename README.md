@@ -1,2 +1,7 @@
-# ai_master_viu
-Currently enrolled in an AI master's. Here I'll upload highlighted assessments from passed courses.
+# Artificial Intelligence master.
+### International University of Valencia.
+
+Hi there!
+I am currently enrolled in this AI master's degree. Here I will upload some highlighted assessments from already passed courses. 
+
+It is going to be a while before **clustering** or **NN** assessments are uploaded.
