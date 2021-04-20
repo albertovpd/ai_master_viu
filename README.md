@@ -37,9 +37,17 @@ It is going to be a while before **clustering** or **NN** assessments are upload
     <summary> Click to expand. </summary>
 
 
-This course was a brief introduction to the understanding of how the following algorithms works:
+Foundations of heuristic and exact algorithms.
 
-![alt](output/optimizing.png)
+- Exact algorithms:
+    - General approach => greedy algorithms, gradient descent, divide and conquer...
+    - Sorting algorithms.
+    - Searching algorithms => Branch and Bound...
+
+- Heuristic algorithms:
+    - Ant Colony Optimization, genetic algorithms...
+
+
 
 </details>
 
@@ -196,7 +204,7 @@ This course was a brief introduction to the understanding of how the following a
 ----------------
 
 
-### 7. Introduction to Neural Networks.
+### 7. Neural Networks foundations.
 
 <details>
     <summary> Click to expand. </summary>
