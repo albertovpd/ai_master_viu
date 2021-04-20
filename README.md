@@ -209,9 +209,31 @@ Foundations of heuristic and exact algorithms.
 <details>
     <summary> Click to expand. </summary>
 
-![alt](output/nn1.png)
+- Fundamentos de las Redes Neuronales.
+    -  Perceptrón simple y perceptrón multicapa.
+    - Algoritmo de backpropagation.
+    - Hiperparámetros de una red neuronalTema. 
+    
+- Deep learning.
+    - Descripción de tipos de capas y su aplicabilidad.
+    - Ejemplos de arquitecturas de red.
+    - Optimización de hiperparámetros.
 
-![alt](output/nn2.png)
+- Aplicación de las Redes Neuronales y Deep Learning a la resolución de tareas de IA.
+    - Clasificación de imágenes.
+    - Tratamiento de secuencias lógicas: Análisis y generación de textos con LSTM.
+    - Introducción a Keras y TensorFlow
+    
+- Aprendizaje por refuerzo.
+    - Introducción a aprendizaje por refuerzo. Estado del arte y retos futuros
+    - Conceptos básicos y avanzados. 
+    - Terminología. 
+    - Clasificación de algoritmos: por Modelo, por Estrategia/Política, por Proceso de aprendizaje.    
+    - Aprendizaje por refuerzo y Deep Learning 1. Algoritmo DQN.
+    - Aprendizaje por refuerzo y Deep Learning 2. Algoritmo Policy Gradient.
+
+- Aprendizaje por refuerzo: Caso práctico
+
 
 </details>
 
