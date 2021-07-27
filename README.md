@@ -4,7 +4,6 @@
 Hi there!
 I am currently enrolled in this AI master's degree. Here I will upload some highlighted assessments from already passed courses. 
 
-It is going to be a while before **clustering** or **NN** assessments are uploaded.
 
 ------------------------------------------------------
 
@@ -201,6 +200,8 @@ Foundations of heuristic and exact algorithms.
 
 ### 6. Approximate Reasoning
 
+- Diseño de una solución con FuzzyCLIPS.
+
 ----------------
 
 
@@ -212,7 +213,7 @@ Foundations of heuristic and exact algorithms.
 - Fundamentos de las Redes Neuronales.
     -  Perceptrón simple y perceptrón multicapa.
     - Algoritmo de backpropagation.
-    - Hiperparámetros de una red neuronalTema. 
+    - Hiperparámetros de una red neuronal. 
     
 - Deep learning.
     - Descripción de tipos de capas y su aplicabilidad.
@@ -232,7 +233,6 @@ Foundations of heuristic and exact algorithms.
     - Aprendizaje por refuerzo y Deep Learning 1. Algoritmo DQN.
     - Aprendizaje por refuerzo y Deep Learning 2. Algoritmo Policy Gradient.
 
-- Aprendizaje por refuerzo: Caso práctico
 
 
 </details>
