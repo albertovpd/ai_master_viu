@@ -1,9 +1,11 @@
 # Artificial Intelligence master.
 ### International University of Valencia.
 
-Hi there!
-I am currently enrolled in this AI master's degree. Here I will upload some highlighted assessments from already passed courses. 
 
+Hi there!
+I attended this AI master's degree while working (2020-2022). Here are uploaded **some** assessments that I particulary liked.
+
+Master: https://www.universidadviu.com/es/master-inteligencia-artificial?var=no&c=I90502M7004&&gclid=EAIaIQobChMI9oP9ktro6wIVNxoGAB2JyQ7LEAAYASAAEgJ_G_D_BwE&gclsrc=aw.ds
 
 ------------------------------------------------------
 
@@ -200,7 +202,12 @@ Foundations of heuristic and exact algorithms.
 
 ### 6. Approximate Reasoning
 
+<details>
+    <summary> Click to expand. </summary>
+
 - Diseño de una solución con FuzzyCLIPS.
+
+</details>
 
 ----------------
 
@@ -242,3 +249,7 @@ Foundations of heuristic and exact algorithms.
 ### 8. Seminars.
 
 ----------------
+
+# 9. Master's thesis
+
+**https://github.com/albertovpd/viu_tfm-deep_vision_classification**
